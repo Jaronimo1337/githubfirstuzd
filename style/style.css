@@ -1,8 +1,40 @@
-h1, .main_text{
+h1,
+.main_text {
     text-align: center;
-    color:white;
+    color: white;
 
 }
-body{
-    background-color: rgb(33, 33, 66);
+h1{
+    font-size: 3rem;
+}
+body {
+    background-color: #212142;
+}
+
+.button_div {
+    display: flex;
+    gap: 0.2rem;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.first_button {
+    background-color: #71acff;
+    border: 1px solid #71acff;
+    border-radius: 0.15rem;
+    color: white;
+    padding: 0.4rem;
+    width: 10rem;
+}
+
+.second_button {
+    border: 1px solid #71acff;
+    border-radius: 0.15rem;
+    background-color: #212142;
+    padding: 0.4rem;
+    width: 8rem;
+    color: #71acff;
+}
+.courses_container{
+    display: flex;
 }

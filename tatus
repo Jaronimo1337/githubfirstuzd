@@ -1,0 +1,30 @@
+[33mcommit f1366b4dde8148f841476a5fa71db97f735530d1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: J.P <j.p@mail.com>
+Date:   Tue Sep 17 14:02:38 2024 +0300
+
+    Improved product card content
+
+[33mcommit 2b9d52f128507e57ba127c717b660c68de717abf[m
+Merge: dbe20d6 c257bd4
+Author: J.P <j.p@mail.com>
+Date:   Tue Sep 17 13:54:10 2024 +0300
+
+    Merge branch 'master' of https://github.com/Jaronimo1337/githubfirstuzd
+
+[33mcommit dbe20d623c519aa235d4a36d4c468b15c4ecc04d[m
+Author: J.P <j.p@mail.com>
+Date:   Tue Sep 17 13:54:06 2024 +0300
+
+    Initial commit2
+
+[33mcommit c257bd440528d6d925d22e7f87e2409187d85c95[m
+Author: J.P <j.p@mail.com>
+Date:   Tue Sep 17 13:52:14 2024 +0300
+
+    Added CSS for product
+
+[33mcommit 38226544b7bf5d753b156d2d4234f2ddcbd148da[m
+Author: J.P <j.p@mail.com>
+Date:   Tue Sep 17 13:46:25 2024 +0300
+
+    Initial commit
